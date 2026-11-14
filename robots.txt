@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://fatcat-cloud.sbs/sitemap.xml
